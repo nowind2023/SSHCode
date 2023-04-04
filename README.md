@@ -1,2 +1,2 @@
 # SSHCode
-ssh工具
+open ssh工具
